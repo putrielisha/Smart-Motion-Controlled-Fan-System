@@ -6,14 +6,14 @@ The system uses a motion sensor to detect the presence and position of a user wi
 
 To improve usability and awareness in shared spaces, an LED indicator is activated when the fan is locked onto a user’s position. This signals to others in the room that the system has responded to someone’s presence.
 
-# Features
+## Features
 - Motion-based user detection
 - Automatic fan direction control (oscillation stop mechanism)
 - User-targeted airflow adjustment
 - LED indicator to show active user targeting
 - Shared-space awareness functionality
 
-# Components & Tools
+## Components & Tools
 - Motion sensor
 - Servo motor
 - LED indicator
@@ -21,7 +21,7 @@ To improve usability and awareness in shared spaces, an LED indicator is activat
 - Arduino
 - Python
 
-# Documentation
+## Documentation
 This project includes:
   - Presentation slides explaining system design
   - Flowchart of system logic
@@ -29,8 +29,8 @@ This project includes:
   - Wiring and breadboard diagrams
   - Images of physical prototype
 
-# Demo
+## Demo
 A video demonstration of the system in operation is available [here!](https://youtu.be/LClc-9ZL5No)
 
-# Goal
+## Goal
 The goal of this project was to explore early-stage smart automation systems and demonstrate how sensor input can be used to create responsive, user-focused devices in shared environments.
